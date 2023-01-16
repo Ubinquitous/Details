@@ -12,7 +12,7 @@ const MyPage = () => {
         <div>
           <h1>유저 아이디 : {value.id}</h1>
           <h1>이름 : {value.name}</h1>
-          <h1>{value.isLogin ? "로그인하지 않음" : "로그인 중"}</h1>
+          <h1>{value.isLogin ? "로그인중" : "로그인하지않음"}</h1>
         </div>
       )}
     </UserContext.Provider>
