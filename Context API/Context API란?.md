@@ -20,9 +20,12 @@ Context에서는 어떻게 이런 불편함을 해소해줄까?
 <img src='https://media.discordapp.net/attachments/1036162758875549761/1064524507135610890/context-data-flow.png?width=1646&height=936' alt=''/>
 
 다음은 Context API의 전역 상태 관리 플로우이다.  
-사진과 같이 Context API로 부모요소와 자식요소를 한 번에 처리할 수 있다.
-만약 G 컴포넌트에서 Root Component의 데이터를 사용하고 싶다면, Context를 불러오는 명령어를  
-사용한 다음 바로 불러오면 되는 것이다!
+사진과 같이 Context API로 부모요소와 자식요소를 한 번에 처리할 수 있다.  
+만약 G 컴포넌트에서 Root Component의 데이터를 사용하고 싶다면,  
+Context를 불러오는 명령어를 사용한 다음 바로 불러오면 되는 것이다!
+
+Consumer를 통해 원하는 값을 한번에 불러올 수 있고,  
+Provider를 통해 Context에 있는 value를 변경할 수 있다.
 
 Context API와 같이 상태를 관리하는 MobX, Redux와 같은 라이브러리들이 있다.  
-다 배워두면 협업에 도움이 될 것이다!
+다 배워두면 협업에 정말 도움이 될 것이다!
