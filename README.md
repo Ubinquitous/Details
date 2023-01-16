@@ -4,4 +4,4 @@
 
 ## [Sass](https://github.com/Ubinquitous/Details/tree/master/Sass)
 
-## [Styled-components](https://github.com/Ubinquitous/Details/tree/master/Styled-components)
+## [styled-components](https://github.com/Ubinquitous/Details/tree/master/Styled-components)

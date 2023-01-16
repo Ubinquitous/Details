@@ -7,7 +7,7 @@
 스타일드 컴포넌트는 자바스크립트 파일 안에 스타일을 선언하는 신기한 방식을 가지고 있다.  
 이런 방식을 CSS-in-JS라고 부르는데, 실제로 많은 사람들이 프로젝트에서 사용하는 기술이다.
 
-CSS-in-JS와 관련된 라이브러리는 정말 많다! 다른 라이브러리도 궁금하다면 밑에서 확인해보길 바람  
+CSS-in-JS 와 관련된 라이브러리는 정말 많다! 다른 라이브러리도 궁금하다면 밑에서 확인해보길 바람  
 <a href='https://github.com/MicheleBertoli/css-in-js'>https://github.com/MicheleBertoli/css-in-js</a>
 
 ## 왜 사용할까?
