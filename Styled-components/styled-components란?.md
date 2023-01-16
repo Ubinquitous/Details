@@ -16,3 +16,4 @@ css 파일과 js 파일의 상호작용은 꽤 어렵다. js가 document에 접�
 허나 이 styled-components를 사용하면, 같은 js파일끼리 상호작용을 너무나도 쉽게 할 수 있다.  
 styled-components는 매개변수를 사용할 수 있는데, 매개변수로 JS에서 값을 넘겨주고 손쉽게 상호작용하며 스타일링을 할 수 있는 장점이 있다.  
 또 styled-components를 사용하면 JS 코드 또한 가독성이 높아진다. 자세한 건 다음 글에서 알아보좌!!
+
