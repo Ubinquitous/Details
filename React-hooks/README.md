@@ -1,6 +1,6 @@
 ## React Hooks
 
-#### [리액트 훅은 무엇인가?](https://github.com/Ubinquitous/Details/blob/master/React-hooks/Hooks.md)
+#### [React hook](https://github.com/Ubinquitous/Details/blob/master/React-hooks/Hooks.md)
 
 #### [useState](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useState.md)
 
@@ -21,5 +21,3 @@
 #### [useTransition](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useTransition.md)
 
 #### [useDeferredValue](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useDeferredValue.md)
-
-#### [useId](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useId.md)
