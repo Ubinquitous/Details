@@ -16,6 +16,10 @@
 
 #### [useRef](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useRef.md)
 
-#### [useImperativeHandle](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useImperativeHandle.md)
-
 #### [useDebugValue](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useDebugValue.md)
+
+#### [useTransition](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useTransition.md)
+
+#### [useDeferredValue](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useDeferredValue.md)
+
+#### [useId](https://github.com/Ubinquitous/Details/blob/master/React-hooks/useId.md)
