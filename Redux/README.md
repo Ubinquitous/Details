@@ -13,3 +13,5 @@
 #### 1. [리액트에서 리덕스 세팅하기](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-store.md)
 
 #### 2. [containers](https://github.com/Ubinquitous/Details/blob/master/Redux/containers.md)
+
+#### 3. [redux-actions](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-actions.md)
