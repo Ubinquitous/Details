@@ -15,3 +15,9 @@
 #### 2. [containers](https://github.com/Ubinquitous/Details/blob/master/Redux/containers.md)
 
 #### 3. [redux-actions](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-actions.md)
+
+## Hooks
+
+#### 1. [useSelector](https://github.com/Ubinquitous/Details/blob/master/Redux/useSelector.md)
+
+#### 2. [useDispatch](https://github.com/Ubinquitous/Details/blob/master/Redux/useDispatch.md)
