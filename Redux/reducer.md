@@ -22,8 +22,6 @@ function reducer(state = initState, action) {
 }
 ```
 
-useReducer와의 차이점은 case문에 따로 문자열을 사용하지 않는다는 특징이 있다.
-
 ## dispatch
 
 dispatch를 이용해 액션 객체를 파라미터로 넣어 호출할 수 있다.  
