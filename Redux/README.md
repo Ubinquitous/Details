@@ -10,4 +10,6 @@
 
 ## React-Redux
 
-#### 1. [Store 생성 및 사용하기](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-store.md)
+#### 1. [리액트에서 리덕스 세팅하기](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-store.md)
+
+#### 2. [containers](https://github.com/Ubinquitous/Details/blob/master/Redux/containers.md)
