@@ -21,3 +21,11 @@
 #### 1. [useSelector](https://github.com/Ubinquitous/Details/blob/master/Redux/useSelector.md)
 
 #### 2. [useDispatch](https://github.com/Ubinquitous/Details/blob/master/Redux/useDispatch.md)
+
+## Middleware
+
+#### 1. [middleware](https://github.com/Ubinquitous/Details/blob/master/Redux/middleware.md)
+
+#### 2. [redux-logger](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-logger.md)
+
+#### 3. [redux-thunk](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-thunk.md)
