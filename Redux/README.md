@@ -29,3 +29,7 @@
 #### 2. [redux-logger](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-logger.md)
 
 #### 3. [redux-thunk](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-thunk.md)
+
+#### 4-1. [generator](https://github.com/Ubinquitous/Details/blob/master/Redux/generator.md)
+
+#### 4-2. [redux-saga](https://github.com/Ubinquitous/Details/blob/master/Redux/redux-saga.md)
