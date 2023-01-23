@@ -8,6 +8,8 @@
 
 ## [React Hooks](https://github.com/Ubinquitous/Details/tree/master/React-hooks)
 
+## [Recoil](https://github.com/Ubinquitous/Details/tree/master/Recoil)
+
 ## [Redux](https://github.com/Ubinquitous/Details/tree/master/Redux)
 
 ## [Sass](https://github.com/Ubinquitous/Details/tree/master/Sass)
