@@ -1,13 +1,13 @@
 ## Recoil
 
-#### [Recoil이란?](https://github.com/Ubinquitous/Details/blob/master/Recoil/Recoil.md)
+#### 1. [Recoil이란?](https://github.com/Ubinquitous/Details/blob/master/Recoil/Recoil.md)
 
-#### [atom](https://github.com/Ubinquitous/Details/blob/master/Recoil/atom.md)
+#### 2. [atom](https://github.com/Ubinquitous/Details/blob/master/Recoil/atom.md)
 
-#### [useRecoilValue](https://github.com/Ubinquitous/Details/blob/master/Recoil/useRecoilValue.md)
+#### 3. [useRecoilValue](https://github.com/Ubinquitous/Details/blob/master/Recoil/useRecoilValue.md)
 
-#### [useSetRecoilState](https://github.com/Ubinquitous/Details/blob/master/Recoil/useSetRecoilState.md)
+#### 4. [useSetRecoilState](https://github.com/Ubinquitous/Details/blob/master/Recoil/useSetRecoilState.md)
 
-#### [useRecoilState](https://github.com/Ubinquitous/Details/blob/master/Recoil/useRecoilState.md)
+#### 5. [useRecoilState](https://github.com/Ubinquitous/Details/blob/master/Recoil/useRecoilState.md)
 
-#### [selector](https://github.com/Ubinquitous/Details/blob/master/Recoil/selector.md)
+#### 6. [selector](https://github.com/Ubinquitous/Details/blob/master/Recoil/selector.md)

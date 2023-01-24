@@ -6,11 +6,13 @@
 
 ## [Context API](https://github.com/Ubinquitous/Details/tree/master/Context%20API)
 
-## [React Hooks](https://github.com/Ubinquitous/Details/tree/master/React-hooks)
+## [Redux](https://github.com/Ubinquitous/Details/tree/master/Redux)
 
 ## [Recoil](https://github.com/Ubinquitous/Details/tree/master/Recoil)
 
-## [Redux](https://github.com/Ubinquitous/Details/tree/master/Redux)
+## [React Hooks](https://github.com/Ubinquitous/Details/tree/master/React-hooks)
+
+## [React Query](https://github.com/Ubinquitous/Details/tree/master/React-Query)
 
 ## [Sass](https://github.com/Ubinquitous/Details/tree/master/Sass)
 
