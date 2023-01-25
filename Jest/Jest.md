@@ -22,10 +22,10 @@ $ yarn add -D jest @types/jest
 ```json
 {
 	"scripts": {
-		"start": "craco start",
+		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "jest",
-		"eject": "craco eject"
+		"eject": "react-scripts eject"
 	}
 }
 ```
