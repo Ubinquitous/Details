@@ -19,3 +19,5 @@
 ## [Sass](https://github.com/Ubinquitous/Details/tree/master/Sass)
 
 ## [styled-components](https://github.com/Ubinquitous/Details/tree/master/Styled-components)
+
+## [Vite](https://github.com/Ubinquitous/Details/tree/master/Vite)
