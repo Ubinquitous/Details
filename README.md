@@ -21,3 +21,5 @@
 ## [styled-components](https://github.com/Ubinquitous/Details/tree/master/Styled-components)
 
 ## [Vite](https://github.com/Ubinquitous/Details/tree/master/Vite)
+
+## [Webpack](https://github.com/Ubinquitous/Details/tree/master/Webpack)
