@@ -79,17 +79,17 @@ const users = useMutation((user) => axios.post('', user), {
 setQueryData는 invalidateQueries를 통해 유효성을 제거하지 않고 값을 업데이트하는 방식이다.
 
 ```js
-const queryClient = useQueryClient() // 등록된 quieryClient 가져오기
+const queryClient = useQueryClient()
 
 const users = useMutation((user) => axios.post('', user), {
 	onSuccess: (res) => {
 		console.log(res)
 		queryClient.setQueryData('user', (data) => {
-            const res = data as AxiosResponse<any, any>;
-            res.data.push(person); // 데이터 push
+			const res = data
+			res.data.push(user)
 
-            return res; // 변경된 데이터로 useQuery set
-        })
+			return res
+		})
 	},
 	onError: (err) => {
 		console.log(err)
