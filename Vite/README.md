@@ -7,3 +7,5 @@
 #### 3. [glob import](https://github.com/Ubinquitous/Details/blob/master/Vite/glob%20import.md)
 
 #### 4. [named import](https://github.com/Ubinquitous/Details/blob/master/Vite/named%20import.md)
+
+#### 5. [dynamic import](https://github.com/Ubinquitous/Details/blob/master/Vite/named%20import.md)

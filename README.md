@@ -23,3 +23,5 @@
 ## [Vite](https://github.com/Ubinquitous/Details/tree/master/Vite)
 
 ## [Webpack](https://github.com/Ubinquitous/Details/tree/master/Webpack)
+
+## [Zustand](https://github.com/Ubinquitous/Details/tree/master/Zustand)
