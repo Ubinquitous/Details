@@ -24,4 +24,6 @@
 
 #### 3-2. [애플리케이션 헤더](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/application-header.md)
 
-#### 3-2. [HTTP 프로토콜](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/http-protocol.md)
+#### 3-3. [HTTP 프로토콜](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/http-protocol.md)
+
+#### 3-4. [메일 프로토콜](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/mail-protocol.md)
