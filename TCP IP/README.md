@@ -55,3 +55,9 @@
 #### 6-5. [PPP와 PPPoE](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/PPP.md)
 
 #### 6-6. [통신 보조 기기](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/PPP.md)
+
+### 7. 라우팅
+
+#### 7-1. [라우팅](https://github.com/Ubinquitous/Details/blob/master/TCP%20IP/routing.md)
+
+### 8. 보안
