@@ -30,7 +30,11 @@
 
 ### [React Query](https://github.com/Ubinquitous/Details/tree/master/React%20Query)
 
+## Code Refactoring
+
 ### [Code Splitting](https://github.com/Ubinquitous/Details/tree/master/Code%20Splitting)
+
+### [SOLID](https://github.com/Ubinquitous/Details/tree/master/SOLID)
 
 ## Testing Library
 
